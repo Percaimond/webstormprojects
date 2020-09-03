@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "Linux";
+  src: url("/LoginForm/PersonalWebsite/static/RobotoMono-Bold.ttf");
+}
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family:Linux, monospace;
+  background-color: #f1c4a4;
+}
+nav{
+  float:left;
+  background-color:lightgrey;
+  width: 1fr;
+}
+article{
+  float: inside;
+  text-align: center;
+  background: #3498db;
+  border-radius: 25px;
+  width: 1fr;
+}
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+  border-radius: 25px;
+}
+h1{
+  font-family: 'Linux', monospace;
+  color: orangered;
+  text-align: center;
+  padding-top: 25px;
+}
+
+
+#back{
+  background: lightgrey;
+}
+#top{
+  text-align: center;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgb(203, 202, 236) 0%, rgb(174, 174, 229) 35%, rgba(0,212,255,1) 100%);
+  border-radius: 25px;
+}
+
+#profile{
+  background-color: lime;
+  text-align: right;
+  float:right;
+  border-radius: 25px;
+  width:1fr
+}
+
+footer{
+  text-align: center;
+  border-radius: 25px;
+  background-color: #b3d4fc;
+}
+
+
