@@ -1,39 +1,45 @@
 @font-face {
   font-family: "Linux";
-  src: url("/LoginForm/PersonalWebsite/static/RobotoMono-Bold.ttf");
+  src: url("/PersonalWebsite/static/RobotoMono-Bold.ttf");
 }
 *{
   box-sizing: border-box;
 }
 body{
-  font-family:Linux, monospace;
-  background-color: #f1c4a4;
+  font-family:'Linux', monospace;
+  background-color: #e6d9cf;
 }
 nav{
+  font-family:'Linux', monospace;
   float:left;
-  background-color:lightgrey;
-  width: 1fr;
+  background-color:#bfa760;
+  text-align: center;
 }
 article{
   float: inside;
   text-align: center;
-  background: #3498db;
+  background: #cfe0e6;
   border-radius: 25px;
   width: 1fr;
 }
-section:after {
-  content: "";
-  display: table;
-  clear: both;
-  border-radius: 25px;
-}
+
 h1{
   font-family: 'Linux', monospace;
   color: orangered;
   text-align: center;
   padding-top: 25px;
 }
+#profile{
+  height: 300px;
+  width:210px;
+  text-align: center;
+  border-radius: 25px;
+  display: block;
+}
 
+.wrapper{
+  background-color:#bf8a60;
+}
 
 #back{
   background: lightgrey;
@@ -45,13 +51,6 @@ h1{
   border-radius: 25px;
 }
 
-#profile{
-  background-color: lime;
-  text-align: right;
-  float:right;
-  border-radius: 25px;
-  width:1fr
-}
 
 footer{
   text-align: center;
@@ -59,4 +58,34 @@ footer{
   background-color: #b3d4fc;
 }
 
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+.one {
+  grid-column: 1 / 3;
+  grid-row: 1;
+}
+.two {
+  grid-column: 2 / 4;
+  grid-row: 1 / 3;
+}
+.three {
+  grid-column: 1;
+  grid-row: 2 / 5;
+}
+.four {
+  grid-column: 3;
+  grid-row: 3;
+}
+.five {
+  grid-column: 2;
+  grid-row: 4;
+}
+.six {
+  grid-column: 3;
+  grid-row: 4;
+}
 
