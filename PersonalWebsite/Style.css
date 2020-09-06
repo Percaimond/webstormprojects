@@ -2,30 +2,32 @@
   font-family: "Linux";
   src: url("/PersonalWebsite/static/RobotoMono-Bold.ttf");
 }
-*{
-  box-sizing: border-box;
-}
+
 body{
   font-family:'Linux', monospace;
-  background-color: #e6d9cf;
+  background-color: #000000;
+  text-decoration-color: white;
 }
 nav{
   font-family:'Linux', monospace;
   float:left;
-  background-color:#bfa760;
+  background-color: #ffffff;
   text-align: center;
+  border-radius: 25px;
+  text-effect: engrave;
 }
 article{
   float: inside;
   text-align: center;
-  background: #cfe0e6;
+  background: lightgrey;
   border-radius: 25px;
   width: 1fr;
+  text-decoration-color: white;
 }
 
 h1{
   font-family: 'Linux', monospace;
-  color: orangered;
+  color: #000000;
   text-align: center;
   padding-top: 25px;
 }
@@ -38,7 +40,8 @@ h1{
 }
 
 .wrapper{
-  background-color:#bf8a60;
+  background-color: lightgrey;
+  border-radius: 25px;
 }
 
 #back{
@@ -50,6 +53,7 @@ h1{
   background: linear-gradient(90deg, rgb(203, 202, 236) 0%, rgb(174, 174, 229) 35%, rgba(0,212,255,1) 100%);
   border-radius: 25px;
 }
+
 
 
 footer{
@@ -65,7 +69,7 @@ footer{
   grid-auto-rows: minmax(100px, auto);
 }
 .one {
-  grid-column: 1 / 3;
+  grid-column: 1;
   grid-row: 1;
 }
 .two {
@@ -87,5 +91,12 @@ footer{
 .six {
   grid-column: 3;
   grid-row: 4;
+}
+.seven{
+  grid-column: 2;
+  grid-row: 3;
+}
+iframe{
+  border-radius: 25px;
 }
 
