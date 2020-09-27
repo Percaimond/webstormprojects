@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../public/assessts/style.css"/>
+</head>
+<body>
+<% if (messages.error) { %>
+    <%= messages.error %>
+<% } %>
+<form class="box" method="POST" action="/login">
+    <h1>Login</h1>
+    <input id="username"  name="username" type="username" placeholder="Username" required>
+    <input id="password"  name="password" type="password" placeholder="Password" required>
+    <input id="myButton"  name="login"    type="submit"   value="Login"  href="/register">
+</form>
+
+</body>
+</html>
