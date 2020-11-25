@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "Linux";
+    src: url("/PersonalWebsite/static/RobotoMono-Bold.ttf");
+}
+
+
+
+*, *::before, *::after{
+    box-sizing: border-box;
+    font-family: "Liberation Mono", sans-serif;
+    font-weight: normal;
+    text-align: center;
+    //background-color: #00AAFF;
+}
+
+#addBox{
+    background-color: #00FF6C;
+}
+
+#buttonForAdd{
+    background-color: #75cc1a;
+}
+/**div{
+    align-self: center;
+    margin: 0 auto;
+    background-color: lightskyblue;
+    width: 60%;
+    height:200px;
+
+}**/
+#list{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+li{
+   text-align: left;
+
+}
+
+.stroked {
+    text-decoration: line-through;
+}
