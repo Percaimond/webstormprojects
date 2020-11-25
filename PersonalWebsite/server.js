@@ -19,6 +19,8 @@ initializePassport(
 
 const users = [];
 
+app.use('/shopping', express.static('public'))//to use shopping website
+
 app.use('/public', express.static('public'));//to use style css
 
 app.set('view-engine', 'ejs');
@@ -50,6 +52,11 @@ app.post('/login',checkNotAuthenticated, passport.authenticate('local',{
 app.get('/register',checkNotAuthenticated, (req, res) =>{
     res.render('register.ejs')
 })
+
+app.get('/shopping',checkAuthenticated, (req, res) =>{
+    res.render('shopping.ejs')
+})
+
 
 app.post('/register', checkNotAuthenticated, async(req, res) =>{
     try{

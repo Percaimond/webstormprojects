@@ -78,3 +78,11 @@ body{
 .link2 {
     color: #75cc1a;
 }
+a{
+    color: #75cc1a;
+}
+
+a:hover{
+    color: #025e5a;
+    text-decoration-color: #025e5a;
+}
