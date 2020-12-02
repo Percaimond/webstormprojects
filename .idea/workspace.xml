@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06ffce57-4384-4d2d-ac5a-4a0650034909" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/PersonalWebsite/public/assets/shoppingListStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/public/assets/shoppingListStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalWebsite/src/components/Sites/Utility/shoppingList.html" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/src/components/Sites/Utility/shoppingList.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h0H9IbkrizOphs6xS6BNjszSkm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PersonalWebsite/public/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\public\assets" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\public\assessts" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\views" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\views\PersonalWebsite\src\components\Sites\Utility" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\src\components\Sites\Utility" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\public\assessts" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\src\components\Sites\Startsite" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.shoppingList.html">
+    <configuration name="App.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebstormProjects/PersonalWebsite/src/App.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Index.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebstormProjects/PersonalWebsite/components/Index.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="shoppingList.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebstormProjects/PersonalWebsite/src/components/Sites/Utility/shoppingList.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.shoppingList.html" />
+        <item itemvalue="JavaScript Debug.App.vue" />
+        <item itemvalue="JavaScript Debug.Index.vue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06ffce57-4384-4d2d-ac5a-4a0650034909" name="Default Changelist" comment="" />
+      <created>1599140936286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599140936286</updated>
+      <workItem from="1599140937361" duration="4029000" />
+      <workItem from="1599401092705" duration="66000" />
+      <workItem from="1599414756581" duration="2413000" />
+      <workItem from="1599493500810" duration="29000" />
+      <workItem from="1600252403758" duration="1282000" />
+      <workItem from="1600338931370" duration="1694000" />
+      <workItem from="1600365803790" duration="122000" />
+      <workItem from="1600510568907" duration="120000" />
+      <workItem from="1600868577244" duration="3205000" />
+      <workItem from="1600871816831" duration="689000" />
+      <workItem from="1600883108596" duration="184000" />
+      <workItem from="1600892998357" duration="1260000" />
+      <workItem from="1600894393790" duration="131000" />
+      <workItem from="1600948117719" duration="7219000" />
+      <workItem from="1600966211741" duration="2529000" />
+      <workItem from="1600971044051" duration="389000" />
+      <workItem from="1601041947549" duration="1409000" />
+      <workItem from="1601043613868" duration="34000" />
+      <workItem from="1601218135698" duration="148000" />
+      <workItem from="1601830195635" duration="2411000" />
+      <workItem from="1601837056901" duration="372000" />
+      <workItem from="1601838195405" duration="5199000" />
+      <workItem from="1601997910842" duration="2445000" />
+      <workItem from="1602090999412" duration="9054000" />
+      <workItem from="1602110948663" duration="1451000" />
+      <workItem from="1602163410558" duration="1109000" />
+      <workItem from="1602178995348" duration="7521000" />
+      <workItem from="1602275105855" duration="64000" />
+      <workItem from="1602442558205" duration="263000" />
+      <workItem from="1602509428966" duration="291000" />
+      <workItem from="1603720913015" duration="447000" />
+      <workItem from="1603989163180" duration="2016000" />
+      <workItem from="1604089947247" duration="1489000" />
+      <workItem from="1604091452225" duration="292000" />
+      <workItem from="1606243954385" duration="49000" />
+      <workItem from="1606316537731" duration="144000" />
+      <workItem from="1606505404566" duration="1708000" />
+    </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1599401121822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599401121822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated style and functionality">
+      <created>1599416892884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599416892884</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated style and functionality2">
+      <created>1599493517830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599493517830</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Authentification">
+      <created>1601218180470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601218180470</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added new function">
+      <created>1606316660061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606316660061</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <MESSAGE value="updated style and functionality" />
+    <MESSAGE value="updated style and functionality2" />
+    <MESSAGE value="Added Authentification" />
+    <MESSAGE value="Added new function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new function" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="970" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600894238169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="970" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600894238169" />
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599141810029">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1599141810029" />
+    <state x="905" y="264" key="CommitChangelistDialog2" timestamp="1606316658061">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="905" y="264" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1606316658061" />
+    <state x="3239" y="169" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599493516826" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1604091598541">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604091598541" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1606316668333">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1606316668333" />
+    <state x="3214" y="321" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599493520754" />
+    <state x="1097" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606316558738">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1097" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1606316558738" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1602509526494">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1602509526494" />
+  </component>
+</project>
