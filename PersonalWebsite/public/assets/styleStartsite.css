@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Linux";
-    src: url("/PersonalWebsite/static/RobotoMono-Bold.ttf");
+    src: url("static/RobotoMono-Bold.ttf");
 }
 
 .column {

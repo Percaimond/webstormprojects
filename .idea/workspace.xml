@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="06ffce57-4384-4d2d-ac5a-4a0650034909" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PersonalWebsite/public/assets/shoppingListStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/public/assets/shoppingListStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalWebsite/src/components/Sites/Utility/shoppingList.html" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/src/components/Sites/Utility/shoppingList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalWebsite/public/assets/styleStartsite.css" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/public/assets/styleStartsite.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalWebsite/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalWebsite/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalWebsite/views/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +44,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1h0H9IbkrizOphs6xS6BNjszSkm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,18 +62,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\projects\WebstormProjects\PersonalWebsite\public\assets" />
-      <recent name="E:\projects\WebstormProjects\PersonalWebsite\public\assessts" />
-      <recent name="E:\projects\WebstormProjects\PersonalWebsite\views" />
-      <recent name="E:\projects\WebstormProjects\PersonalWebsite\static" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\projects\WebstormProjects\PersonalWebsite\views\PersonalWebsite\src\components\Sites\Utility" />
       <recent name="E:\projects\WebstormProjects\PersonalWebsite\src\components\Sites\Utility" />
       <recent name="E:\projects\WebstormProjects\PersonalWebsite" />
       <recent name="E:\projects\WebstormProjects\PersonalWebsite\public\assessts" />
       <recent name="E:\projects\WebstormProjects\PersonalWebsite\src\components\Sites\Startsite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\public\assets" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\public\assessts" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\views" />
+      <recent name="E:\projects\WebstormProjects\PersonalWebsite\static" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.shoppingList.html">
@@ -64,9 +86,13 @@
     <configuration name="shoppingList.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebstormProjects/PersonalWebsite/src/components/Sites/Utility/shoppingList.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="shoppingList.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PersonalWebsite/src/components/Sites/Utility/shoppingList.js" working-dir="$PROJECT_DIR$/PersonalWebsite/src/components/Sites/Utility">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.shoppingList.html" />
+        <item itemvalue="Node.js.shoppingList.js" />
         <item itemvalue="JavaScript Debug.App.vue" />
         <item itemvalue="JavaScript Debug.Index.vue" />
       </list>
@@ -117,6 +143,9 @@
       <workItem from="1606243954385" duration="49000" />
       <workItem from="1606316537731" duration="144000" />
       <workItem from="1606505404566" duration="1708000" />
+      <workItem from="1606907992989" duration="504000" />
+      <workItem from="1606908512047" duration="176000" />
+      <workItem from="1607876444039" duration="1005000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1599401121822</created>
@@ -153,11 +182,30 @@
       <option name="project" value="LOCAL" />
       <updated>1606316660061</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated CSS">
+      <created>1606908256390</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606908256390</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updates" />
@@ -165,35 +213,49 @@
     <MESSAGE value="updated style and functionality2" />
     <MESSAGE value="Added Authentification" />
     <MESSAGE value="Added new function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new function" />
+    <MESSAGE value="Updated CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated CSS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="970" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600894238169">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="970" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600894238169" />
-    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599141810029">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1599141810029" />
-    <state x="905" y="264" key="CommitChangelistDialog2" timestamp="1606316658061">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="3239" y="169" key="CommitChangelistDialog2" timestamp="1606908254826">
+      <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="905" y="264" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1606316658061" />
-    <state x="3239" y="169" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599493516826" />
+    <state x="3239" y="169" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606908254826" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1606908687559">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606908687559" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1606908687558">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606908687558" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1606908687558">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606908687558" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1606908687558">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606908687558" />
     <state x="781" y="344" key="SettingsEditor" timestamp="1604091598541">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="344" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604091598541" />
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1606316668333">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="3214" y="321" key="Vcs.Push.Dialog.v2" timestamp="1606908633552">
+      <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1606316668333" />
-    <state x="3214" y="321" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599493520754" />
-    <state x="1097" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606316558738">
+    <state x="3214" y="321" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606908633552" />
+    <state x="1097" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607877396404">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1097" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1606316558738" />
+    <state x="1097" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1607877396404" />
+    <state x="3383" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606908641030" />
     <state x="936" y="330" key="run.anything.popup" timestamp="1602509526494">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
