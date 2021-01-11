@@ -10,7 +10,9 @@
     font-family: "Liberation Mono", sans-serif;
     font-weight: normal;
     text-align: center;
-    //background-color: #00AAFF;
+
+
+//background-color: #00AAFF;
 }
 
 #addBox{
@@ -32,7 +34,7 @@
     width: 400px;
     margin-left: auto;
     margin-right: auto;
-
+    display: table;
 }
 
 li{
@@ -43,3 +45,11 @@ li{
 .stroked {
     text-decoration: line-through;
 }
+
+#emailBox{
+    display: table-cell;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+
