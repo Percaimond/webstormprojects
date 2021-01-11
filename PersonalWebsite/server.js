@@ -19,7 +19,7 @@ initializePassport(
 
 const users = [];
 
-app.use('/shopping', express.static('public'))//to use shopping website
+app.use('/shopping', express.static('public'));//to use shopping website
 
 app.use('/public', express.static('public'));//to use style css
 
@@ -57,6 +57,11 @@ app.get('/shopping',checkAuthenticated, (req, res) =>{
     res.render('shopping.ejs')
 })
 
+app.use('/calculator', express.static('public'));
+
+app.get('/calculator',checkAuthenticated, (req, res) =>{
+    res.render('calculator.ejs')
+})
 
 app.post('/register', checkNotAuthenticated, async(req, res) =>{
     try{
