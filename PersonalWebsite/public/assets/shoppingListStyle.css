@@ -4,8 +4,6 @@
 
 }
 
-
-
 *, *::before, *::after{
     box-sizing: border-box;
     font-family: "Liberation Mono", sans-serif;
@@ -63,13 +61,25 @@ textarea:focus, input:focus {
     /*font-size: 25px;*/
 }
 
-#submitbutton{
+
+
+#emailBox{
     position: absolute;
+    align-content: center;
+    left:0;
     bottom:0;
+    float: left;
+    display:inline;
+}
 
-    color: #00FF6C;;
+#bottonforEmail{
+
+    bottom:0;
+position: absolute;;
+    color: #000000;
     border-style: none;
-    background-color: blueviolet;
-
-   align-content: center;
+    background-color: #e2d328;
+    display: inline;
+    align-content: center;
+    float: left;
 }
